@@ -30,9 +30,9 @@
             </div>
             <div class="lineInput">
                 <label for="txtValor">Preço</label>
-                <input type="text" name="txtPreco" id="txtPreco" placeholder="Preço do produto">
+                <input type="number" name="txtPreco" id="txtPreco" placeholder="Preço do produto">
             </div>
-            <button onclick="produto.salvarProduto()">Salvar</button>
+            <button onclick="produto.salvarProduto()" id="btnSalvarAtualizar">Salvar</button>
             <button onclick="produto.limparForm()">Cancelar</button>
         </div>
         <div class="content">
