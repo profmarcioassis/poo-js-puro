@@ -1,4 +1,4 @@
 # poo-js-puro
 Programação Orientada a Objetos com Javascript Puro
 
-Em desenvolvimento...
+Em desenvolvimento...04/12
